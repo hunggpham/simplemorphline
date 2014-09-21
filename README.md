@@ -7,20 +7,20 @@ To run this example, please see steps as follows.
 
 Clone code repository:
 
-git clone https://github.com/yeleid/simplemorphline
+    git clone https://github.com/yeleid/simplemorphline
 
 Install:
 
-bin/install.sh
+    bin/install.sh
 
 Start flume (with morphline):
 
-bin/flume-start.sh
+    bin/flume-start.sh
 
 Send data to flume:
 
-bin/send-data.sh
+    bin/send-data.sh
 
 Query via impala:
 
-bin/impala-query.sh
+    bin/impala-query.sh
