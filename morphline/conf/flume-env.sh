@@ -1,0 +1,1 @@
+JAVA_OPTS="-Xms1000m -Xmx1000m"

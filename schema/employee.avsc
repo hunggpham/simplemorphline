@@ -1,0 +1,18 @@
+{
+  "type": "record",
+  "name": "employee",
+  "fields": [
+    {
+      "name": "user",
+      "type": "string"
+    },
+    {
+      "name": "company",
+      "type": "string"
+    },
+    {
+      "name": "create_timestamp",
+      "type": "long"
+    }
+  ]
+}
